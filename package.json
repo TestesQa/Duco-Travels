@@ -1,0 +1,11 @@
+{
+  "name": "projeto-duco",
+  "version": "1.0.0",
+  "description": "Projeto de teste de aceitação da app da Duco",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Lucas Mateus Muginoski",
+  "license": "MIT"
+}

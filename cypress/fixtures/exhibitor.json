@@ -1,0 +1,711 @@
+{
+	"exhibitor": {
+		"name": "Table 101 - Armani Hotel Milano + Access Italy",
+		"appointments": [
+			[{
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "1",
+				"table": 101,
+				"start": "10:00 AM",
+				"end": "10:15 AM",
+				"buyer": [{
+					"name": "Linda Sergeant - Far and Away Luxury Destinations0"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "2",
+				"table": 101,
+				"start": "10:15 AM",
+				"end": "10:30 AM",
+				"buyer": [{
+					"name": "Juliana Angotti - L HedonistFrance"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "3",
+				"table": 101,
+				"start": "10:30 AM",
+				"end": "10:45 AM",
+				"buyer": [{
+					"name": "Danny Akhtar - Par Excellence LifestyleUnited Kingdom"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "4",
+				"table": 101,
+				"start": "10:45 AM",
+				"end": "11:00 AM",
+				"buyer": [{
+					"name": "Mariana Tosic - Andrew Harper0"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "5",
+				"table": 101,
+				"start": "11:00 AM",
+				"end": "11:15 AM",
+				"buyer": [{
+					"name": "Rachelle Stepner - Five Star Italy0"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "COFFEE BREAK",
+				"table": 101,
+				"start": "11:15 AM",
+				"end": "11:30 AM"
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "6",
+				"table": 101,
+				"start": "11:30 AM",
+				"end": "11:45 AM",
+				"buyer": [{
+					"name": "Mary Steadman - LURA LifestyleUnited Kingdom"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "7",
+				"table": 101,
+				"start": "11:45 AM",
+				"end": "12:00 PM"
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "9",
+				"table": 101,
+				"start": "12:15 PM",
+				"end": "12:30 PM",
+				"buyer": [{
+					"name": "Brie Shelly - The Experience by Brie Shelly & EMBARK Beyond0"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "8",
+				"table": 101,
+				"start": "12:00 PM",
+				"end": "12:15 PM",
+				"buyer": [{
+					"name": "Adriana Sladovnikova - Faveo ConciergeSlovakia"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "10",
+				"table": 101,
+				"start": "12:30 PM",
+				"end": "12:45 PM",
+				"buyer": [{
+					"name": "Mallory Shaw - Trouvaille Yacht & Travel0"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "11",
+				"table": 101,
+				"start": "12:45 PM",
+				"end": "01:00 PM",
+				"buyer": [{
+					"name": "St\u00e9phanie Deschamps - Voyage \u00e0 l'italienneFrance"
+				}, {
+					"name": "Tania Parisse - Voyage \u00e0 l'italienneFrance"
+				}]
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "LUNCH",
+				"table": 101,
+				"start": "01:00 PM",
+				"end": "02:30 PM"
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "12",
+				"table": 101,
+				"start": "02:30 PM",
+				"end": "02:45 PM",
+				"buyer": [{
+					"name": "Kathy Lubrano - Sanders Travel0"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "13",
+				"table": 101,
+				"start": "02:45 PM",
+				"end": "03:00 PM",
+				"buyer": [{
+					"name": "Adamarie King - The Ada File0"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "14",
+				"table": 101,
+				"start": "03:00 PM",
+				"end": "03:15 PM",
+				"buyer": [{
+					"name": "Federico von Sanden - Federico von Sanden TravelUnited Kingdom"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "15",
+				"table": 101,
+				"start": "03:15 PM",
+				"end": "03:30 PM",
+				"buyer": [{
+					"name": "Fiona Forward - 42 South Travel0"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "16",
+				"table": 101,
+				"start": "03:30 PM",
+				"end": "03:45 PM",
+				"buyer": [{
+					"name": "Donna Guttman - Number 1 power0"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "COFFEE BREAK",
+				"table": 101,
+				"start": "03:45 PM",
+				"end": "04:00 PM"
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "17",
+				"table": 101,
+				"start": "04:00 PM",
+				"end": "04:15 PM",
+				"buyer": [{
+					"name": "Lisa Fishman - #1 Power Travel0"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "18",
+				"table": 101,
+				"start": "04:15 PM",
+				"end": "04:30 PM",
+				"buyer": [{
+					"name": "Elissa Goldman - attach\u00e9 at NinthFlr0"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-20",
+				"local": "Villa la Massa",
+				"number": "19",
+				"table": 101,
+				"start": "04:30 PM",
+				"end": "04:45 PM",
+				"buyer": [{
+					"name": "Christie Holmes - Global CommUnity0"
+				}, {
+					"name": null
+				}]
+			}],
+			[{
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "20",
+				"table": 101,
+				"start": "10:00 AM",
+				"end": "10:15 AM",
+				"buyer": [{
+					"name": "Linda Considine - Ciao BambinoItaly"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "21",
+				"table": 101,
+				"start": "10:15 AM",
+				"end": "10:30 AM"
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "22",
+				"table": 101,
+				"start": "10:30 AM",
+				"end": "10:45 AM",
+				"buyer": [{
+					"name": "Bowden Sarrett - Brownell0"
+				}, {
+					"name": "Martha Gaughen - Brownell0"
+				}]
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "23",
+				"table": 101,
+				"start": "10:45 AM",
+				"end": "11:00 AM",
+				"buyer": [{
+					"name": "John Beeler - Altitude Luxury Experiences0"
+				}, {
+					"name": "Ragan Stone - Departure Lounge0"
+				}]
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "24",
+				"table": 101,
+				"start": "11:00 AM",
+				"end": "11:15 AM",
+				"buyer": [{
+					"name": "Angela Adto Tepper - AZA Luxury Trave0"
+				}, {
+					"name": "Deborah Gellis - Embark Beyond0"
+				}]
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "COFFEE BREAK",
+				"table": 101,
+				"start": "11:15 AM",
+				"end": "11:30 AM"
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "25",
+				"table": 101,
+				"start": "11:30 AM",
+				"end": "11:45 AM",
+				"buyer": [{
+					"name": "Alexandra Erdman Ely - Local Foreigner 0"
+				}, {
+					"name": "Nancy Novogrod - Culturati Travel Design0"
+				}]
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "26",
+				"table": 101,
+				"start": "11:45 AM",
+				"end": "12:00 PM",
+				"buyer": [{
+					"name": "Aja Chmeliauskaite - Boutique TravelLithuania"
+				}, {
+					"name": "Madeline Steuber - Steuber Travel Group0"
+				}]
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "27",
+				"table": 101,
+				"start": "12:00 PM",
+				"end": "12:15 PM",
+				"buyer": [{
+					"name": "Valentins Ivanovs - Art Of TravelLatvia"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "28",
+				"table": 101,
+				"start": "12:15 PM",
+				"end": "12:30 PM",
+				"buyer": [{
+					"name": "Jill Robbins - Eden For Your World0"
+				}, {
+					"name": "Joelle Marciano - LES VOYAGES DU MARAISFrance"
+				}]
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "29",
+				"table": 101,
+				"start": "12:30 PM",
+				"end": "12:45 PM",
+				"buyer": [{
+					"name": "Georgia Schley Ritchie - Protravel International0"
+				}, {
+					"name": "Susan Boehnstedt - Critics Choice Vacations0"
+				}]
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "30",
+				"table": 101,
+				"start": "12:45 PM",
+				"end": "01:00 PM",
+				"buyer": [{
+					"name": "Sarah Nichols - Destination Europe LLC0"
+				}, {
+					"name": "Maria Poole - Maria Poole Luxury Travel 0"
+				}]
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "LUNCH",
+				"table": 101,
+				"start": "01:00 PM",
+				"end": "02:30 PM"
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "31",
+				"table": 101,
+				"start": "02:30 PM",
+				"end": "02:45 PM",
+				"buyer": [{
+					"name": "Melissa Martin - Italian Allure Travel0"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "32",
+				"table": 101,
+				"start": "02:45 PM",
+				"end": "03:00 PM",
+				"buyer": [{
+					"name": "Natasha Phillips - CBT Luxury Edition0"
+				}, {
+					"name": "Anne Liles - Anne Liles Travel (Departure Lounge)0"
+				}]
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "33",
+				"table": 101,
+				"start": "03:00 PM",
+				"end": "03:15 PM"
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "34",
+				"table": 101,
+				"start": "03:15 PM",
+				"end": "03:30 PM",
+				"buyer": [{
+					"name": "Cydney Lembersky - SmartflyerItaly"
+				}, {
+					"name": "Inga Bytaute - Life in StyleLithuania"
+				}]
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "35",
+				"table": 101,
+				"start": "03:30 PM",
+				"end": "03:45 PM",
+				"buyer": [{
+					"name": "Heather Bannon - The Bee's Knees Travel0"
+				}, {
+					"name": "Rosamund King - 360 Private TravelUnited Kingdom"
+				}]
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "COFFEE BREAK",
+				"table": 101,
+				"start": "03:45 PM",
+				"end": "04:00 PM"
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "36",
+				"table": 101,
+				"start": "04:00 PM",
+				"end": "04:15 PM",
+				"buyer": [{
+					"name": "Emily Pariseau - Local Foreigner0"
+				}, {
+					"name": "Mona Khalil - Pomalo TravelUnited Arab Emirates"
+				}]
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "37",
+				"table": 101,
+				"start": "04:15 PM",
+				"end": "04:30 PM",
+				"buyer": [{
+					"name": "Deya Palmero - The Stargaze Travel0"
+				}, {
+					"name": "Peter Huber - Bawa ToursGermany"
+				}]
+			}, {
+				"date": "2021-07-21",
+				"local": "Villa la Massa",
+				"number": "38",
+				"table": 101,
+				"start": "04:30 PM",
+				"end": "04:45 PM",
+				"buyer": [{
+					"name": "Ann Gerakitis - Elevations Travel0"
+				}, {
+					"name": "Danielle Pearson - Departure Lounge0"
+				}]
+			}],
+			[{
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "39",
+				"table": 101,
+				"start": "10:00 AM",
+				"end": "10:15 AM",
+				"buyer": [{
+					"name": "Alysia Hopper Steffes - Hopper Travels (Brownell)0"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "40",
+				"table": 101,
+				"start": "10:15 AM",
+				"end": "10:30 AM",
+				"buyer": [{
+					"name": "Nadezda Novakova - Nora travel agencyCzech Republic"
+				}, {
+					"name": "Lisa Baserga - AVA Wine Adventures0"
+				}]
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "41",
+				"table": 101,
+				"start": "10:30 AM",
+				"end": "10:45 AM",
+				"buyer": [{
+					"name": "Andrea Kucharova - PPF BankaCzech Republic"
+				}, {
+					"name": "Christina Turrini - Frosch Travel0"
+				}]
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "42",
+				"table": 101,
+				"start": "10:45 AM",
+				"end": "11:00 AM",
+				"buyer": [{
+					"name": "Michele Benigno - Coastline Travel0"
+				}, {
+					"name": "Minerva Padilla - Montecito Village Travel0"
+				}]
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "43",
+				"table": 101,
+				"start": "11:00 AM",
+				"end": "11:15 AM",
+				"buyer": [{
+					"name": "Brendan Considine - Ciao BambinoItaly"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "COFFEE BREAK",
+				"table": 101,
+				"start": "11:15 AM",
+				"end": "11:30 AM"
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "44",
+				"table": 101,
+				"start": "11:30 AM",
+				"end": "11:45 AM",
+				"buyer": [{
+					"name": "Wendy Davis - Zebrano Travel0"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "45",
+				"table": 101,
+				"start": "11:45 AM",
+				"end": "12:00 PM",
+				"buyer": [{
+					"name": "Rebecca Bullen - RB Travel0"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "46",
+				"table": 101,
+				"start": "12:00 PM",
+				"end": "12:15 PM",
+				"buyer": [{
+					"name": "Pascal Resta - DEPARTURE LOUNGEFrance"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "47",
+				"table": 101,
+				"start": "12:15 PM",
+				"end": "12:30 PM",
+				"buyer": [{
+					"name": "Loreal Shea - Rudi Steele Travel0"
+				}, {
+					"name": null
+				}]
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "48",
+				"table": 101,
+				"start": "12:30 PM",
+				"end": "12:45 PM",
+				"buyer": [{
+					"name": "Susanne Hamer - TravelSTore0"
+				}, {
+					"name": "Lisa Daumann - Universal Travel0"
+				}]
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "49",
+				"table": 101,
+				"start": "12:45 PM",
+				"end": "01:00 PM",
+				"buyer": [{
+					"name": "Mike Arnold - The Tynan Travel Company0"
+				}, {
+					"name": "Lauren LaCour - Lauren LaCour Travel0"
+				}]
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "LUNCH",
+				"table": 101,
+				"start": "01:00 PM",
+				"end": "02:30 PM"
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "50",
+				"table": 101,
+				"start": "02:30 PM",
+				"end": "02:45 PM",
+				"buyer": [{
+					"name": "Joseph Colucci - Andrew Harper Travel0"
+				}, {
+					"name": "Wendy Taylor - Preferred Travel of Naples0"
+				}]
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "51",
+				"table": 101,
+				"start": "02:45 PM",
+				"end": "03:00 PM",
+				"buyer": [{
+					"name": "Heather Keller - Perfect Landing Travel 0"
+				}, {
+					"name": "Jessica Scott - J. Scott Travel0"
+				}]
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "52",
+				"table": 101,
+				"start": "03:00 PM",
+				"end": "03:15 PM",
+				"buyer": [{
+					"name": "Denise Hall - Rudi Steele Travel0"
+				}, {
+					"name": "Patricia McLemore - Patricia Travels0"
+				}]
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "53",
+				"table": 101,
+				"start": "03:15 PM",
+				"end": "03:30 PM",
+				"buyer": [{
+					"name": "Becky Lukovic - Travel Experts0"
+				}, {
+					"name": "Sara Ryan Duffy - New Act Travel0"
+				}]
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "54",
+				"table": 101,
+				"start": "03:30 PM",
+				"end": "03:45 PM",
+				"buyer": [{
+					"name": "Patty Ehinger - In the Know Experiences0"
+				}, {
+					"name": "Stephanie Rizzolo - SETTE Travel0"
+				}]
+			}, {
+				"date": "2021-07-22",
+				"local": "Villa la Massa",
+				"number": "55",
+				"table": 101,
+				"start": "03:45 PM",
+				"end": "04:00 PM",
+				"buyer": [{
+					"name": "James Sorensen - Global Travel Collection0"
+				}, {
+					"name": "Samantha Collum - River Oaks Travel0"
+				}]
+			}]
+		]
+	}
+}
