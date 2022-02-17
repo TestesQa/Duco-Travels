@@ -41,14 +41,10 @@ repetidos = [
 
 #Apresenta valor de repeditos
 quantidade_repetidos = len(repetidos)-2
-#repetidos.pop('Break')
-# repetidos.pop()
-# repetidos.pop()
-
 
 
 #Printa lista de repetido e quantidade
-print(repetidos, quantidade_repetidos)
+print("\n \n ""Lista de Nome Repetidos --> ",repetidos,"\n Quantidade de repetidos sem BREAK e NONE  --> ", quantidade_repetidos )
     
 
 
