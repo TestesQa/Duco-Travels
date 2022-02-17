@@ -9,9 +9,6 @@ describe('App DUCO regression tests for buyers schedule',()=>{
         cy.visit('https://duco.dev.luby.com.br/italy-2021-physical/buyer/schedule/social-distancing/7b66b4fd401a271a1c7224027ce111bc/simple');
     })
 
-    //var array1OfStrings = this.abuyer.buyer.appointments[0];
-    //var array2OfStrings = this.abuyer.buyer.appointments[1];
-    //var array3OfStrings = this.abuyer.buyer.appointments[2];
     it('Validate url and HTML document title', function(){
         const EXPECTEDURL = 'https://duco.dev.luby.com.br/italy-2021-physical/buyer/schedule/social-distancing/7b66b4fd401a271a1c7224027ce111bc/simple';
         cy.url().should('be.equal', EXPECTEDURL);
@@ -54,6 +51,7 @@ describe('App DUCO regression tests for buyers schedule',()=>{
         for (var i = 1; i < 20; i++){
             cy.get('table[dayappointment="1"] tbody tr td:nth-child(1)')
                 .contains(i).should('have.text', i);
+            //contador para string do td:nth-child(5)
         }
         for (var i = 20; i < 39; i++){
             cy.get('table[dayappointment="2"] tbody tr td:nth-child(1)').contains(i).should('have.text', i);
