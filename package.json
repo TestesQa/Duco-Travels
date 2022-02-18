@@ -1,11 +1,14 @@
 {
-  "name": "projeto-duco",
+  "name": "duco-automation",
   "version": "1.0.0",
-  "description": "Projeto de teste de aceitação da app da Duco",
+  "description": "Testes automatizados para projeto Duco",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open"
   },
   "author": "Lucas Mateus Muginoski",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^9.4.1"
+  }
 }
