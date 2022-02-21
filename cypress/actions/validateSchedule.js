@@ -42,6 +42,26 @@ class ValidateScheduleTables{
         })
     }
 
+    hotelAeHotelB(){
+        cy.get('h3[dayappointment="1"] span').then(($hotel1)=>{
+            const HOTELD1 = $hotel1.text();
+            cy.get('h3[dayappointment="2"] span').then(($hotel3)=>{
+                expect($hotel3.text()).eq(HOTELD1)
+            })
+        })
+    }
+    
+    hotelC2dia(){
+        cy.get('h3[dayappointment="1"] span').then(($hotel1)=>{
+            const HOTELD1 = $hotel1.text();
+            cy.get('h3[dayappointment="2"] span').then(($hotel3)=>{
+                expect($hotel3.text()).not.to.eq(HOTELD1)
+            })
+        })
+    }
+
+
+
     // função geração para validar todos os dias de uma única vez, faz distinção do dia 
     validateScheduleDayDay(){
         const { map, countBy, pickBy } = Cypress._
