@@ -1,0 +1,580 @@
+{
+  "buyer": {
+    "name": "Angela Burns - Strong Travel ",
+    "appointments": [
+        [
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "1",
+          "table": "1",
+          "start": "10:00 AM",
+          "end": "10:15 AM",
+          "exhibitor": "Imago Artis Travel"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "2",
+          "table": "2",
+          "start": "10:15 AM",
+          "end": "10:30 AM",
+          "exhibitor": "Mandarin Oriental, Milan & Mandarin Oriental, Lago di Como"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "3",
+          "table": "3",
+          "start": "10:30 AM",
+          "end": "10:45 AM",
+          "exhibitor": "Borgo Santo Pietro + Villa Marina Capri Hotel & Spa"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "4",
+          "table": "4",
+          "start": "10:45 AM",
+          "end": "11:00 AM",
+          "exhibitor": "Villa Spalletti Trivelli + Ca'Sagredo Hotel"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "5",
+          "table": "5",
+          "start": "11:00 AM",
+          "end": "11:15 AM",
+          "exhibitor": "Small Luxury Hotels of the World"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "COFFEE BREAK",
+          "table": "BREAK",
+          "start": "11:15 AM",
+          "end": "11:30 AM",
+          "exhibitor": "break"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "6",
+          "table": "6",
+          "start": "11:30 AM",
+          "end": "11:45 AM",
+          "exhibitor": "Borgo Pignano"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "7",
+          "table": "7",
+          "start": "11:45 AM",
+          "end": "12:00 PM",
+          "exhibitor": "Capri Palace Jumeirah + Privilege Italia"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "9",
+          "table": "9",
+          "start": "12:15 PM",
+          "end": "12:30 PM",
+          "exhibitor": "Bauer Palazzo + Palazzo Parigi Hotel & Grand Spa"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "8",
+          "table": "8",
+          "start": "12:00 PM",
+          "end": "12:15 PM",
+          "exhibitor": "Starhotels Collezione - Grand Hotel Continental Siena, Hotel d'Inghilterra & Helvetia & Bristol"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "10",
+          "table": "10",
+          "start": "12:30 PM",
+          "end": "12:45 PM",
+          "exhibitor": "Margutta 19 & Fendi Private Suites + Tenuta di Murlo"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "11",
+          "table": "11",
+          "start": "12:45 PM",
+          "end": "01:00 PM",
+          "exhibitor": "COMO Castello Del Nero + San Clemente Palace Kempinski"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "LUNCH",
+          "table": "BREAK",
+          "start": "01:00 PM",
+          "end": "02:30 PM",
+          "exhibitor": "break"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "12",
+          "table": "12",
+          "start": "02:30 PM",
+          "end": "02:45 PM",
+          "exhibitor": "Mezzatorre Hotel & Thermal Spa - Pellicano Hotels + Grand Hotel Excelsior Vittoria"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "13",
+          "table": "13",
+          "start": "02:45 PM",
+          "end": "03:00 PM",
+          "exhibitor": "Four Seasons Hotel Firenze & Four Seasons Hotel Milano & San Domenico Palace, Taormina, a Four Seasons Hotel"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "14",
+          "table": "14",
+          "start": "03:00 PM",
+          "end": "03:15 PM",
+          "exhibitor": "Hassler Roma & Il Palazzetto"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "15",
+          "table": "15",
+          "start": "03:15 PM",
+          "end": "03:30 PM",
+          "exhibitor": "Bespoqe Travel + Casa Fantini Lake Time"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "16",
+          "table": "16",
+          "start": "03:30 PM",
+          "end": "03:45 PM",
+          "exhibitor": "il Sereno Hotel & Villa Pliniana"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "COFFEE BREAK",
+          "table": "BREAK",
+          "start": "03:45 PM",
+          "end": "04:00 PM",
+          "exhibitor": "break"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "17",
+          "table": "17",
+          "start": "04:00 PM",
+          "end": "04:15 PM",
+          "exhibitor": "Borgo Santandrea + Galleria Vik Milano"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "18",
+          "table": "18",
+          "start": "04:15 PM",
+          "end": "04:30 PM",
+          "exhibitor": "Belmond Villa San Michele, Belmond Castello di Casole & Belmond Hotel Cipriani"
+        },
+        {
+          "date": "2021-07-20",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "19",
+          "table": "BREAK",
+          "start": "04:30 PM",
+          "end": "04:45 PM",
+          "exhibitor": "break"
+        }
+      ],
+      [
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "20",
+          "table": "20",
+          "start": "10:00 AM",
+          "end": "10:15 AM",
+          "exhibitor": "Hotel VIU Milan + La Bandita Townhouse"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "21",
+          "table": "21",
+          "start": "10:15 AM",
+          "end": "10:30 AM",
+          "exhibitor": "Queen of Clubs"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "22",
+          "table": "22",
+          "start": "10:30 AM",
+          "end": "10:45 AM",
+          "exhibitor": "Grand Hotel Tremezzo & Passalacqua"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "23",
+          "table": "23",
+          "start": "10:45 AM",
+          "end": "11:00 AM",
+          "exhibitor": "Primerent"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "24",
+          "table": "24",
+          "start": "11:00 AM",
+          "end": "11:15 AM",
+          "exhibitor": "Dorchester Collection - Hotel Eden & Hotel Principe di Savoia"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "COFFEE BREAK",
+          "table": "BREAK",
+          "start": "11:15 AM",
+          "end": "11:30 AM",
+          "exhibitor": "break"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "25",
+          "table": "25",
+          "start": "11:30 AM",
+          "end": "11:45 AM",
+          "exhibitor": "The Mall Luxury Outlets + Principi di Piemonte | UNA Esperienze"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "26",
+          "table": "26",
+          "start": "11:45 AM",
+          "end": "12:00 PM",
+          "exhibitor": "Aman Venice + Hotel Byron"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "27",
+          "table": "27",
+          "start": "12:00 PM",
+          "end": "12:15 PM",
+          "exhibitor": "IC Bellagio"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "28",
+          "table": "28",
+          "start": "12:15 PM",
+          "end": "12:30 PM",
+          "exhibitor": "Manfredi Fine Hotels Collection - Palazzo Manfredi & Punta Tragara"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "29",
+          "table": "29",
+          "start": "12:30 PM",
+          "end": "12:45 PM",
+          "exhibitor": "Terme di Saturnia Natural Spa & Golf Resort + Grand Hotel Miramare"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "30",
+          "table": "30",
+          "start": "12:45 PM",
+          "end": "01:00 PM",
+          "exhibitor": "Le Sirenuse + Palazzo Avino"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "LUNCH",
+          "table": "BREAK",
+          "start": "01:00 PM",
+          "end": "02:30 PM",
+          "exhibitor": "break"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "31",
+          "table": "31",
+          "start": "02:30 PM",
+          "end": "02:45 PM",
+          "exhibitor": "Hotel Castello di Reschio"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "32",
+          "table": "BREAK",
+          "start": "02:45 PM",
+          "end": "03:00 PM",
+          "exhibitor": "break"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "33",
+          "table": "32",
+          "start": "03:00 PM",
+          "end": "03:15 PM",
+          "exhibitor": "Fonteverde & Le Massif + Sofitel Rome Villa Borghese"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "34",
+          "table": "33",
+          "start": "03:15 PM",
+          "end": "03:30 PM",
+          "exhibitor": "I.D.I. Travel + Pix Around"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "35",
+          "table": "34",
+          "start": "03:30 PM",
+          "end": "03:45 PM",
+          "exhibitor": "Rocco Forte Hotels Italy: Hotel Savoy, Hotel de Russie & Hotel de la Ville"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "COFFEE BREAK",
+          "table": "BREAK",
+          "start": "03:45 PM",
+          "end": "04:00 PM",
+          "exhibitor": "break"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "36",
+          "table": "35",
+          "start": "04:00 PM",
+          "end": "04:15 PM",
+          "exhibitor": "San Domenico Hotels: Masseria San Domenico, Borgo Egnazia, Santavenere & De Len"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "37",
+          "table": "36",
+          "start": "04:15 PM",
+          "end": "04:30 PM",
+          "exhibitor": "Palazzo Venart + Grand Hotel de la Minerve"
+        },
+        {
+          "date": "2021-07-21",
+          "local": "Four Seasons Hotel Firenze",
+          "number": "38",
+          "table": "37",
+          "start": "04:30 PM",
+          "end": "04:45 PM",
+          "exhibitor": "Lefay Resorts - Lefay Resort & SPA Dolomiti, Lefay Resort & SPA Lago di Garda +"
+        }
+      ],
+      [
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "39",
+          "table": "39",
+          "start": "10:00 AM",
+          "end": "10:15 AM",
+          "exhibitor": "Cristallo, a Luxury Collection Resort & Spa + The Luxury Collection, Venice & JW Marriott Venice Resort & Spa"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "40",
+          "table": "40",
+          "start": "10:15 AM",
+          "end": "10:30 AM",
+          "exhibitor": "Excelsior Hotel Gallia, a Luxury Collection Hotel + The Luxury Collection - Costa Smeralda Hotels"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "41",
+          "table": "41",
+          "start": "10:30 AM",
+          "end": "10:45 AM",
+          "exhibitor": "The St. Regis Florence & The Westin Excelsior, Florence + The St. Regis Rome & The Westin Excelsior, Rome"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "42",
+          "table": "42",
+          "start": "10:45 AM",
+          "end": "11:00 AM",
+          "exhibitor": "Falkensteiner Resort Capo Boi + Fontelunga Hotel & Villas"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "43",
+          "table": "43",
+          "start": "11:00 AM",
+          "end": "11:15 AM",
+          "exhibitor": "Hotel Londra Palace + The Place Firenze"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "COFFEE BREAK",
+          "table": "BREAK",
+          "start": "11:15 AM",
+          "end": "11:30 AM",
+          "exhibitor": "break"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "44",
+          "table": "44",
+          "start": "11:30 AM",
+          "end": "11:45 AM",
+          "exhibitor": "Villa della Pergola Relais & Ch\u00e2teaux + Italian Journeys"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "45",
+          "table": "45",
+          "start": "11:45 AM",
+          "end": "12:00 PM",
+          "exhibitor": "Capofaro Locanda & Malvasia"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "46",
+          "table": "46",
+          "start": "12:00 PM",
+          "end": "12:15 PM",
+          "exhibitor": "Castello Banfi - Il Borgo + Il Bottaccio"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "47",
+          "table": "47",
+          "start": "12:15 PM",
+          "end": "12:30 PM",
+          "exhibitor": "Castello di Guarene + Petra Segreta Resort & Spa"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "48",
+          "table": "48",
+          "start": "12:30 PM",
+          "end": "12:45 PM",
+          "exhibitor": "Hotel Caesar Augustus Relais & Ch\u00e2teaux + Il Borro"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "49",
+          "table": "49",
+          "start": "12:45 PM",
+          "end": "01:00 PM",
+          "exhibitor": "Ch\u00e2teau Monfort + Villa Crespi"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "LUNCH",
+          "table": "BREAK",
+          "start": "01:00 PM",
+          "end": "02:30 PM",
+          "exhibitor": "break"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "50",
+          "table": "50",
+          "start": "02:30 PM",
+          "end": "02:45 PM",
+          "exhibitor": "Relais & Chateaux Hotel Borgo San Felice + Palazzo Seneca"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "51",
+          "table": "51",
+          "start": "02:45 PM",
+          "end": "03:00 PM",
+          "exhibitor": "Monaci delle Terre Nere, Relais & Ch\u00e2teaux"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "52",
+          "table": "52",
+          "start": "03:00 PM",
+          "end": "03:15 PM",
+          "exhibitor": "Locanda Don Serafino Relais & Ch\u00e2teaux + Relais & Ch\u00e2teaux Il Falconiere & SPA"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "53",
+          "table": "53",
+          "start": "03:15 PM",
+          "end": "03:30 PM",
+          "exhibitor": "Relais & Ch\u00e2teaux Villa Cordevigo Wine Relais + Relais & Ch\u00e2teaux Villa Franceschi"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "54",
+          "table": "54",
+          "start": "03:30 PM",
+          "end": "03:45 PM",
+          "exhibitor": "L'Albereta & L'Andana"
+        },
+        {
+          "date": "2021-07-22",
+          "local": "The St Regis, Florence & The Westin Excelsior, Florence ",
+          "number": "55",
+          "table": "55",
+          "start": "03:45 PM",
+          "end": "04:00 PM",
+          "exhibitor": "Alpina Dolomites & Gardena Gr\u00f6dnerhof Hotel & Spa"
+        }
+      ]
+    ]
+  }
+}

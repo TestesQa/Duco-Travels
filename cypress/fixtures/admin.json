@@ -1,0 +1,18 @@
+{
+    "adminUser":{
+        "user":"mila",
+        "pass":"buyers"
+    },
+    "wrongPassword":{
+        "user":"mila",
+        "pass": "pwd123"
+    },
+    "wrongUser":{
+        "user":"joaozinho",
+        "pass": "buyers"
+    },
+    "notCadastrated":{
+        "user":"jakeperalta",
+        "pass": "pwd456"
+    }
+}
